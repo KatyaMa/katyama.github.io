@@ -1,11 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to the Katya's homepage!
 
 You can use the [editor on GitHub](https://github.com/KatyaMa/katyama.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-title: Welcome to the Katya's homepage!
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
